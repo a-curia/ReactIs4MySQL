@@ -1,2 +1,2 @@
 ﻿Add-Migration mysqlreactdemoschema
-Update-Database
+Update-Databasedddd
