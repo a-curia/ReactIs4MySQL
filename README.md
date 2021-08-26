@@ -1,2 +1,2 @@
 ﻿Add-Migration mysqlreactdemoschema
-Update-Databasesdfds fs m
+Update-Databasesdfds fs
